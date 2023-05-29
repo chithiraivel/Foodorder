@@ -1,0 +1,45 @@
+.rating{
+    height: 19px;
+    width: 45px;
+    padding: 5px;
+    background-color: rgb(21, 194, 21);
+    color: white;
+}
+.navbar{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.navbar span{
+    padding: 10px;
+}
+.card:hover{
+    box-shadow: 1px 2px 5px gray;
+    border-radius: 10px;
+}
+.box{
+    border: 1px solid;
+    height: 0px;
+    width: 90px;
+    padding: 10px;
+}
+.box2{
+    border: 1px solid;
+    height: 0px;
+    width: 90px;
+    padding: 10px;
+    background-color: rgb(241, 42, 42);
+    color: white;
+}
+.box3{
+    border: 1px solid;
+    height: 20px;
+    width: 80px;
+    padding: 10px;
+    background-color: rgb(142, 162, 250);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+}
